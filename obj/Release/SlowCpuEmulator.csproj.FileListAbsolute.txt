@@ -1,0 +1,8 @@
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\bin\Release\SlowCpuEmulator.exe.config
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\bin\Release\SlowCpuEmulator.exe
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\bin\Release\SlowCpuEmulator.pdb
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\obj\Release\SlowCpuEmulator.exe
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\obj\Release\SlowCpuEmulator.pdb
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\obj\Release\SlowCpuEmulator.Properties.Resources.resources
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\obj\Release\SlowCpuEmulator.csproj.GenerateResource.Cache
+C:\Users\mathu\Desktop\Personal Programs\C# Programs\SlowCpuEmulator\obj\Release\SlowCpuEmulator.csprojResolveAssemblyReference.cache
