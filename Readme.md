@@ -1,5 +1,8 @@
 # "Slow CPU" Emulator v1.1.2.0
 
+Original description by "Matthusumut"
+---
+
 "Slow CPU" Emulator is useful for slowing down games, testing how applications deal with lag, and/or reducing the overall CPU usage of a specified process.
 
 Simply tell the emulator the update interval and speed percentage, and witness your application slowing down to the specified speed live!
